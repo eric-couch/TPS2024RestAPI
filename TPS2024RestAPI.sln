@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPS2024RestAPI", "TPS2024RestAPI\TPS2024RestAPI.csproj", "{8075DEF9-F30B-47E4-84D4-7E6192431F3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8075DEF9-F30B-47E4-84D4-7E6192431F3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8075DEF9-F30B-47E4-84D4-7E6192431F3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8075DEF9-F30B-47E4-84D4-7E6192431F3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8075DEF9-F30B-47E4-84D4-7E6192431F3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF87420A-C70B-4A49-881C-C8508E41A8C7}
+	EndGlobalSection
+EndGlobal
